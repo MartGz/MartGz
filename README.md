@@ -1,6 +1,6 @@
 ## Hola, soy Martín García
 
-Desarrollador Full Stack en Cartagena, Colombia. Trabajo en **Ingenio Ti**, donde construyo módulos para una plataforma empresarial, y atiendo proyectos freelance con mi marca **[DevMart Solutions](https://devmart.co)**.
+Desarrollador Full Stack en Cartagena, Colombia. Trabajo en **Ingenio Ti**, donde construyo módulos para una plataforma empresarial, y atiendo proyectos freelance con mi marca **[DevMart Solutions](https://devmart.co)** ([GitHub](https://github.com/devmart-solutions)).
 
 Estudio Ingeniería de Sistemas y estoy abierto a oportunidades remotas.
 
@@ -32,7 +32,7 @@ Estudio Ingeniería de Sistemas y estoy abierto a oportunidades remotas.
 
 | Proyecto | Qué es | Stack | Demo |
 | --- | --- | --- | --- |
-| [devmart-web](https://github.com/MartGz/devmart-web) | Sitio de DevMart Solutions con blog, portafolio y panel admin con 2FA | Next.js 16, TypeScript, Postgres, Drizzle | [devmart.co](https://devmart.co) |
+| [devmart-web](https://github.com/devmart-solutions/devmart-web) | Sitio de DevMart Solutions con blog, portafolio y panel admin con 2FA | Next.js 16, TypeScript, Postgres, Drizzle | [devmart.co](https://devmart.co) |
 | [mundo-ecoverde](https://github.com/MartGz/mundo-ecoverde) | Sitio de gestión de residuos con panel que edita todo el contenido | Next.js 16, TypeScript, Prisma, PostgreSQL | [mundoecoverde.co](https://www.mundoecoverde.co/) |
 | [4a-urban](https://github.com/MartGz/4a-urban) | Tienda streetwear con carrito, pedidos, roles y permisos | React, Express, Prisma, PostgreSQL | [4a-urban.vercel.app](https://4a-urban.vercel.app/) |
 
